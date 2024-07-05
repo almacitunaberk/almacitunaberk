@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor's in Mathematics and Computer Science double major<br>🤖 I'm currently learning AI agents, Mixture of Agents, and unseen use cases of open source LLMs.<br>💻 I enjoy learning new frameworks and tech-stacks.<br>🎲 Fun fact: I am very interested in UX/UI and new human-computer interaction platforms</p>
+<p align="left">🎓 Bachelor's in Mathematics and Computer Science double major<br>🤖 I'm currently learning AI agents, Mixture of Agents, and unseen use cases of open source LLMs.<br>💻 I enjoy learning new frameworks and tech-stacks.<br>🎲 Fun fact: I created my profile picture using AI</p>
 
 ###
 
